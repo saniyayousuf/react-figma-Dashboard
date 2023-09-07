@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-figma-Dashboard/static/css/main.9ccdc283.css",
+    "main.js": "/react-figma-Dashboard/static/js/main.c81dc992.js",
+    "static/js/787.0ac24604.chunk.js": "/react-figma-Dashboard/static/js/787.0ac24604.chunk.js",
+    "static/media/logo.svg": "/react-figma-Dashboard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-figma-Dashboard/index.html",
+    "main.9ccdc283.css.map": "/react-figma-Dashboard/static/css/main.9ccdc283.css.map",
+    "main.c81dc992.js.map": "/react-figma-Dashboard/static/js/main.c81dc992.js.map",
+    "787.0ac24604.chunk.js.map": "/react-figma-Dashboard/static/js/787.0ac24604.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ccdc283.css",
+    "static/js/main.c81dc992.js"
+  ]
+}
